@@ -1,5 +1,5 @@
 ###                                      Hola 👋, soy Carla Cristina Solano Chuzón
 
-                          Estudiante de Ingeniería de Sistemas, me encanta mucho el Desarrollo Web
+                         Estudiante de Ingeniería en Sistemas, apasionada por el desarrollo web
 
 - 🌱 Actualmente estoy aprendiendo Desarrolllo Web.
