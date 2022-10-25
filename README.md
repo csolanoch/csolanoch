@@ -1,4 +1,4 @@
-###                                                              Hola 👋, soy Carla Cristina Solano Chuzón
+###  Hola 👋, soy Carla Cristina Solano Chuzón
 
 <!--
 Estudiante de Ingeniería de Sistemas, me encanta mucho el Desarrollo Web
